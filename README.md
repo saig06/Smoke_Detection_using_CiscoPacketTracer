@@ -31,7 +31,7 @@ To detect smoke and activate a siren using Cisco Packet Tracer
 ![](Images/Test1.png)
 
 
-**Before Smoke level exceeds 0.5 :**
+**After Smoke level exceeds 0.5 :**
 
 
 ![](Images/Test2.png)
